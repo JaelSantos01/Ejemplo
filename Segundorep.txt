@@ -1,0 +1,5 @@
+CA2@CA2-PC05 MINGW64 ~/Documents/Moi/Ejemplo (R1)
+$ git config --global user.name "JaelSantos01"
+
+CA2@CA2-PC05 MINGW64 ~/Documents/Moi/Ejemplo (R1)
+$ git config --global user.email "20223TN110@utez.edu.mx"
